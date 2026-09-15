@@ -1,0 +1,28 @@
+{
+  "note": "Coordinates in pixels of the 1760x1328 source photos. 'feeder' spots swing with the feeder, 'scene' spots stay. Measured by eye on bg_winter_overcast.png, checked on tools/make_assets.py's overlay.",
+  "source_px": [1760, 1328],
+  "scene_px": [320, 240],
+  "px_per_cm": 2.4,
+  "pivot": [945, 440],
+  "front_note": "What of the feeder is in front of a bird on the tray: the roof with the gable board and the beam under it, and the two front posts, drawn again over the birds on the tray. Polygons in source pixels.",
+  "front": [
+    [[600, 430], [1280, 430], [1280, 657], [1204, 657], [1002, 682], [943, 712], [709, 703], [600, 692]],
+    [[940, 676], [1007, 676], [1007, 897], [948, 919], [940, 919]],
+    [[706, 660], [784, 660], [784, 875], [706, 864]]
+  ],
+  "spots": [
+    {"name": "perch_left",  "kind": "perch",  "on": "feeder", "at": [652, 842]},
+    {"name": "perch_right", "kind": "perch",  "on": "feeder", "at": [1222, 908]},
+    {"name": "perch_front", "kind": "perch",  "on": "feeder", "at": [1062, 962]},
+    {"name": "tray_1",      "kind": "tray",   "on": "feeder", "at": [765, 884]},
+    {"name": "tray_2",      "kind": "tray",   "on": "feeder", "at": [872, 904]},
+    {"name": "tray_3",      "kind": "tray",   "on": "feeder", "at": [1068, 890]},
+    {"name": "side_right",  "kind": "side",   "on": "feeder", "at": [1165, 790]},
+    {"name": "branch_1",    "kind": "branch", "on": "scene",  "at": [1268, 398]},
+    {"name": "branch_2",    "kind": "branch", "on": "scene",  "at": [1485, 472]},
+    {"name": "branch_3",    "kind": "branch", "on": "scene",  "at": [560, 506]},
+    {"name": "branch_4",    "kind": "branch", "on": "scene",  "at": [335, 527]},
+    {"name": "trunk",       "kind": "trunk",  "on": "scene",  "at": [925, 240]},
+    {"name": "ground",      "kind": "ground", "on": "scene",  "area": [150, 1060, 1600, 1250]}
+  ]
+}

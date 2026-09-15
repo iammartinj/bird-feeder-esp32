@@ -1,0 +1,4 @@
+dependencies:
+  idf: ">=5.5"
+  espressif/esp_lcd_co5300:
+    version: "^2.1.0"
