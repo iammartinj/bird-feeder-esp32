@@ -10,6 +10,12 @@ the birds off, and they come back one by one.
 |---|---|---|
 | ![Winter overcast](docs/winter_overcast.png) | ![Winter morning](docs/winter_morning.png) | ![Autumn](docs/autumn.png) |
 
+![On the board](docs/on-the-board.jpg)
+
+On the board, autumn, a blue tit on the tray. The three pictures above are
+frames grabbed from the scene itself; this one is a photograph of it running,
+and [docs/on-the-board.mp4](docs/on-the-board.mp4) is twenty seconds of it.
+
 ## What happens on the screen
 
 - **Eleven visitors**, each with its own habits: house sparrows in flocks,
