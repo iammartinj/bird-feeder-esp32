@@ -10,7 +10,7 @@ the birds off, and they come back one by one.
 |---|---|---|
 | ![Winter overcast](docs/winter_overcast.png) | ![Winter morning](docs/winter_morning.png) | ![Autumn](docs/autumn.png) |
 
-![On the board](docs/on-the-board.webp)
+![On the board](docs/on-the-board-clip.webp)
 
 On the board, autumn, a blue tit on the tray. The three pictures above are
 frames grabbed from the scene itself; this one is ten seconds of it running,
