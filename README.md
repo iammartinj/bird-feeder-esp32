@@ -10,11 +10,12 @@ the birds off, and they come back one by one.
 |---|---|---|
 | ![Winter overcast](docs/winter_overcast.png) | ![Winter morning](docs/winter_morning.png) | ![Autumn](docs/autumn.png) |
 
-![On the board](docs/on-the-board.jpg)
+![On the board](docs/on-the-board.webp)
 
 On the board, autumn, a blue tit on the tray. The three pictures above are
-frames grabbed from the scene itself; this one is a photograph of it running,
-and [docs/on-the-board.mp4](docs/on-the-board.mp4) is twenty seconds of it.
+frames grabbed from the scene itself; this one is ten seconds of it running,
+filmed off the panel. A [still](docs/on-the-board.jpg) of the same moment and
+the [whole clip](docs/on-the-board.mp4) are here too.
 
 ## What happens on the screen
 
